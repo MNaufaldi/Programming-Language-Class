@@ -6,5 +6,6 @@ class arrayExercise5{
         Arrays.sort(no5);
         System.out.println("Max: "+no5[no5.length-1]);
         System.out.println("Min: "+no5[0]);
+        
     }
 }
