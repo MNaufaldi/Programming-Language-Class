@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar",
+            "mysql-connector-java-5.1.49/mysql-connector-java-5.1.49.jar",
+            "mysql-connector-java-5.1.49/mysql-connector-java-5.1.49-bin.jar",
+            "c:\\Users\\ASUS\\Downloads\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar",
+            "c:\\Users\\ASUS\\Downloads\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49-bin.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\ASUS\\Downloads\\json-simple-3.1.1.jar"
+        ]
+    }
+}
